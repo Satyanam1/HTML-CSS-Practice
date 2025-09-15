@@ -4,7 +4,7 @@
 }
 
 h1{
-    background-color: red;
+    background-color:#b29f9f;
     text-align: center;
     
 }
@@ -15,4 +15,18 @@ button{
     height: 30px;
     padding-left: 30px;
     width: 100px;
+} 
+#hello {
+    height: 400px;
+    font-weight: 30px;
+    background-color: #b29f9f;
+    width: 100px;
+    display: flex;
+    
+
 }
+
+
+    
+
+    
